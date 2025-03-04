@@ -1,0 +1,45 @@
+---
+title: "Avichal Warke"
+subtitle: "P.hD. Scholar, Political  Studies, JNU."
+image: images/avi.jpg
+about: 
+  template: solana
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/avichal-warke
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/avichal-warke-4220a7233/
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/Bhimlekk?t=8lqjU2oo7WLljChC8lPd4A&s=08
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/aviwarke/
+format: html
+---
+
+Hello World!
+
+My name is Avichal Warke. I'm a research scholar at Centre for Politcal Studies, Jawaharlal Nehru University, New Delhi.
+
+My research work is focused on the intersections of Technology, Caste and Society and my interests are Anti-caste History and Philosophy, Political Philosophy, Ambedkar's Political Thought, Cinema, Communication Studies and AI.   
+
+## EDUCATION
+
+PhD in Political Studies 2022-Present 
+• Jawaharlal Nehru University, New Delhi 
+• Working on “Social Networking Platforms and Caste Question”
+
+Masters in Political Science 2019-2021 
+• Rashtrasant Tukadoji Maharaj Nagpur University, Maharashtra 
+
+Bachelor of Arts 2017-2019 
+• Hislop College, Nagpur, Maharashtra • 
+
+Intermediate in Science 2013-2015 
+• St. Francis De Sales, Junior College, Seminary Hills, Nagpur, Maharashtra 
+
+Matriculation 2012-2013 
+• St. Francis De Sales, High School, Residential Road, Nagpur, Maharashtra 

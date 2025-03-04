@@ -1,0 +1,22 @@
+project: 
+  type: website
+  preview: 
+    browser: true
+    
+website: 
+  title: "Avichal Warke"
+  navbar: 
+    left: 
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+        
+format: 
+  html: 
+    theme: lux
+    fontcolor: "#21618c"
+    backgroundcolor: "#fef9e7"
+    linkcolor: "#273746"
+    
+    
