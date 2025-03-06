@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Avichal Warke",
-    "section": "",
-    "text": "Hello World!\nMy name is Avichal Warke. I’m a research scholar at Centre for Politcal Studies, Jawaharlal Nehru University, New Delhi.\nMy research work is focused on the intersections of Technology, Caste and Society and my interests are Anti-caste History and Philosophy, Political Philosophy, Ambedkar’s Political Thought, Cinema, Communication Studies and AI."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Avichal Warke",
-    "section": "EDUCATION",
-    "text": "EDUCATION\nPhD in Political Studies 2022-Present • Jawaharlal Nehru University, New Delhi • Working on “Social Networking Platforms and Caste Question”\nMasters in Political Science 2019-2021 • Rashtrasant Tukadoji Maharaj Nagpur University, Maharashtra\nBachelor of Arts 2017-2019 • Hislop College, Nagpur, Maharashtra •\nIntermediate in Science 2013-2015 • St. Francis De Sales, Junior College, Seminary Hills, Nagpur, Maharashtra\nMatriculation 2012-2013 • St. Francis De Sales, High School, Residential Road, Nagpur, Maharashtra"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -68,5 +54,19 @@
     "title": "About",
     "section": "",
     "text": "• Who Speaks for whom? The stories of caste, media and representation from behind the curtain, 15 Feb 2024, TheDaak.\nhttps://thedaak.in/2024/02/15/who-speaks-for-whom-the-stories-of-caste-media-and-representation-from-behind-the-curtains. •\nCasteist Slurs on JNU Walls: The Deep-Rooted Casteism in Indian Universities, 24 July 2024, TheWire https://thewire.in/caste/casteist-slurs-on-jnu-walls-the-deep-rooted-casteism-in-indian-universities"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Avichal Warke",
+    "section": "",
+    "text": "Hello World!\nMy name is Avichal Warke. I’m a research scholar at Centre for Politcal Studies, Jawaharlal Nehru University, New Delhi.\nMy research work is focused on the intersections of Technology, Caste and Society and my interests are Anti-caste History and Philosophy, Political Philosophy, Ambedkar’s Political Thought, Cinema, Communication Studies and AI."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Avichal Warke",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nPhD in Political Studies 2022-Present • Jawaharlal Nehru University, New Delhi • Working on “Social Networking Platforms and Caste Question”\nMasters in Political Science 2019-2021 • Rashtrasant Tukadoji Maharaj Nagpur University, Maharashtra\nBachelor of Arts 2017-2019 • Hislop College, Nagpur, Maharashtra •\nIntermediate in Science 2013-2015 • St. Francis De Sales, Junior College, Seminary Hills, Nagpur, Maharashtra\nMatriculation 2012-2013 • St. Francis De Sales, High School, Residential Road, Nagpur, Maharashtra"
   }
 ]

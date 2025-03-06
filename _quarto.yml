@@ -5,18 +5,39 @@ project:
     
 website: 
   title: "Avichal Warke"
+  site-url: "https://avichal.netlify.app/"
+  description: "Hi Friends. Let's connect."
+  twitter-card: true
   navbar: 
     left: 
       - text: "Home"
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - text: "More"
+        menu:
+         - publications.qmd
+         - academic-activities.qmd 
+      
+    tools:
+      - icon: github
+        href: https://github.com/avichal-warke
+      - icon: linkedin
+        href: https://www.linkedin.com/in/avichal-warke-4220a7233/
+      - icon: twitter
+        href: https://x.com/Bhimlekk?t=8lqjU2oo7WLljChC8lPd4A&s=08
+      - icon: instagram
+        href: https://www.instagram.com/aviwarke/
+  page-footer:
+   left: "Copyright 2025, Avichal Warke"
+   right: "Supported by [SARA](https://sara-edu.netlify.app/)"
         
 format: 
   html: 
-    theme: lux
-    fontcolor: "#21618c"
-    backgroundcolor: "#fef9e7"
-    linkcolor: "#273746"
+    theme: cosmos
+    # css: styles.css
+    # fontcolor: "#273746"
+    # backgroundcolor: "#fef9e7"
+    # linkcolor: "#273746"
     
     
