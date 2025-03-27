@@ -8,6 +8,8 @@ website:
   site-url: "https://avichal.netlify.app/"
   description: "Hi Friends. Let's connect."
   twitter-card: true
+  back-to-top-navigation: true
+  reader-mode: false
   navbar: 
     left: 
       - text: "Home"
